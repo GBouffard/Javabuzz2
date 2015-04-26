@@ -1,1 +1,1 @@
-Re-doing Javabuzz to make sure I still can do it.
+Re-doing Javabuzz in Javascript to make refresh my memory.
